@@ -1,6 +1,6 @@
 # pyflaskmysql
  
-This is a simple Python and Mysql Connection Demonstration. This project contains three views and app.py file to connect and use it. For complete understanding of the code [https://](https://nishantmunjal.com/lesson/python-with-flask-and-mysql-project/) MYSQL with Python and Flask
+This is a simple Python and Mysql Connection Demonstration. This project contains three views and app.py file to connect and use it. For complete understanding of the code [MYSQL with Python and Flask](https://nishantmunjal.com/lesson/python-with-flask-and-mysql-project/)
 
 Steps to Execute:
 
